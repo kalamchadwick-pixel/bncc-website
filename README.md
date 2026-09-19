@@ -1,6 +1,6 @@
 # BNCC Website
 
-Landing page sederhana untuk BNCC, dibuat kolaboratif oleh tim 3 orang memakai alur Git & GitHub (branch, Pull Request, code review).
+Landing page sederhana untuk BNCC, dibuat kolaboratif oleh tim 2 orang memakai alur Git & GitHub (branch, Pull Request, code review).
 
 ## Visualisasi
 
@@ -27,9 +27,8 @@ Demo: https://kalamchadwick-pixel.github.io/bncc-website
 
 | Anggota | Peran | Kontribusi |
 |---|---|---|
-| Kalam ([@kalamchadwick-pixel](https://github.com/kalamchadwick-pixel)) | Project Initiator | Membuat repo, mengatur akses tim, menambahkan index.html, menulis README |
+| Kalam ([@kalamchadwick-pixel](https://github.com/kalamchadwick-pixel)) | Project Initiator & Script Engineer | Membuat repo, mengatur akses tim, menambahkan index.html, menulis README, membuat script.js di branch `feature/scripting` dan menghubungkannya ke index.html |
 | Kevin ([@kruvv911](https://github.com/kruvv911)) | Styling Engineer | Membuat style.css di branch `feature/styling` dan menghubungkannya ke index.html |
-| Muhammad Andi Abdurrahman ([@durrahman](https://github.com/durrahman)) | Script Engineer | Membuat script.js di branch `feature/scripting` dan menghubungkannya ke index.html |
 
 ## What I Learned
 
